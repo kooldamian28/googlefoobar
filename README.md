@@ -40,7 +40,8 @@ Input: Solution.solution("The quick brown fox jumps over the lazy dog") Output: 
 
 Use verify [file] to test your solution and see how it does. When you are finished editing your code, use submit [file] to submit your answer. If your solution passes the test cases, it will be removed from your home folder.
 
-To download the solution: <a href="https://cdn.jsdelivr.net/gh/kooldamian28/googlefoobar/brailletranslation/solution.py" title="https://cdn.jsdelivr.net/gh/kooldamian28/googlefoobar/brailletranslation/solution.py">https://cdn.jsdelivr.net/gh/kooldamian28/googlefoobar/brailletranslation/solution.py</a>
+To download the solution:
+<a href="https://cdn.jsdelivr.net/gh/kooldamian28/googlefoobar/brailletranslation/solution.py">https://cdn.jsdelivr.net/gh/kooldamian28/googlefoobar/brailletranslation/solution.py</a>
 
 2.Prison Labor Dodgers
 =
