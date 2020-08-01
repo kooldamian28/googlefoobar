@@ -93,7 +93,7 @@ You survived a week in Commander Lambda's organization, and you even managed to 
 
 Submission: SUCCESSFUL. Completed in: 5 mins, 1 secs.
 
-To download the solution: https://cdn.jsdelivr.net/gh/kooldamian28/googlefoobar/prisonlabordodgers/solution.py
+To download the solution: <a href="https://cdn.jsdelivr.net/gh/kooldamian28/googlefoobar/prisonlabordodgers/solution.py">https://cdn.jsdelivr.net/gh/kooldamian28/googlefoobar/prisonlabordodgers/solution.py</a>
 
 3.Gearing Up for Destruction
 =
@@ -144,7 +144,7 @@ Use verify [file] to test your solution and see how it does. When you are finish
 Submitting solution...
 Submission: SUCCESSFUL. Completed in: 15 mins, 4 secs.
 
-To download the solution: https://cdn.jsdelivr.net/gh/kooldamian28/googlefoobar/gearingupfordestruction/solution.py
+To download the solution: <a href="https://cdn.jsdelivr.net/gh/kooldamian28/googlefoobar/gearingupfordestruction/solution.py">https://cdn.jsdelivr.net/gh/kooldamian28/googlefoobar/gearingupfordestruction/solution.py</a>
 
 Note:
 =
