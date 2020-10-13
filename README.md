@@ -1,7 +1,7 @@
 # googlefoobar
 Google Foobar Challenge Solutions(foobar.withgoogle.com)
 
-This repo is also available at <a href="https://kooldamian28.github.io/googlefoobar">kooldamian28.github.io/googlefoobar</a>. You can bookmark <a href="this page">https://kooldamian28.github.io/googlefoobar</a> for easy access.
+This repo is also available at <a href="kooldamian28.github.io/googlefoobarr">https://kooldamian28.github.io/googlefoobar</a>. You can bookmark <a href="https://kooldamian28.github.io/googlefoobar">this page</a> for easy access.
 
 Here are all the Google Foobar challenges that I had completed.
 
