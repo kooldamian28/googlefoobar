@@ -163,4 +163,4 @@ If it doesn't work search for, in order, "mutex lock" and "arraylist java", in b
 If it still doesn't work, this guide may be outdated because I'm writing it at 01/08/2020 at 3:07 PM (IST).
 Thank you! (and pray for me and I will too!)
 
-This work is licensed under the <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License 3.0</a>
+This work is licensed under the <a href="https://www.gnu.org/licenses/agpl-3.0.html">GNU Affero General Public License v3.0</a>
